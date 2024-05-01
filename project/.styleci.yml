@@ -1,0 +1,10 @@
+php:
+  preset: laravel
+  disabled:
+    - no_unused_imports
+  finder:
+    not-name:
+      - index.php
+js: true
+css: <link rel="stylesheet" href="https://6597-2-132-47-181.ngrok-free.app/admin/plugins/fontawesome-free/css/all.min.css">
+
